@@ -1,6 +1,6 @@
 
 // 반복문: 인덱스가 있는  for 문
-package sacal_example.ex3
+package scala_example.ex3
 
 object Ex_3_10 {
   def main(args: Array[String]): Unit = {

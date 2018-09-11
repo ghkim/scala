@@ -1,6 +1,6 @@
 
 // 반복문: 이중 for
-package sacal_example.ex3
+package scala_example.ex3
 
 object Ex_3_7 {
   def main(args: Array[String]): Unit = {

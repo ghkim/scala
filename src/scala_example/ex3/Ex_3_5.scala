@@ -1,6 +1,6 @@
 
 
-package sacal_example.ex3
+package scala_example.ex3
 
 object Ex_3_5 {
   def main(args: Array[String]): Unit = {
