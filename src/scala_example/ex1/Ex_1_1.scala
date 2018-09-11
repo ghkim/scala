@@ -1,5 +1,7 @@
 
 // 싱글턴 객체
+package scala_example.ex1
+
 object Ex_1_1 {
   /**
    * def 함수 정의 예약어

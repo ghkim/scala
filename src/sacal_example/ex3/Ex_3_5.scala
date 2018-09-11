@@ -1,11 +1,14 @@
 
 
-object Ex_3_6 {
+package sacal_example.ex3
+
+object Ex_3_5 {
   def main(args: Array[String]): Unit = {
     var a = 0
-    do{
+    
+    while (a < 20) {
       printf(a + ",")
       a += 1
-    } while (a < 20) 
+    }
   }
 }

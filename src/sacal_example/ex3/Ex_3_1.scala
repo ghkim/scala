@@ -1,5 +1,7 @@
 
 
+package sacal_example.ex3
+
 object Ex_3_1 {
   def main(args: Array[String]): Unit = {
     var x = 20
