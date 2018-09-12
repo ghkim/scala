@@ -11,7 +11,7 @@ object Ex_4_4 {
 }
 
 class User(name: String, age: Int, sex: Char) {
-  var sayName = println("제 이름은 " + name)
+  val sayName = println("제 이름은 " + name)
 }
 
 class PaidUser(name: String, age: Int, sex: Char, money: Int) extends User(name, age, sex) {
